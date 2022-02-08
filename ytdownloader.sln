@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ytdownloader", "ytdownloader\ytdownloader.csproj", "{3F0F15C1-473D-4556-B6A1-9A1A6BE6A8C8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FytDownloader", "FytDownloader\FytDownloader.vdproj", "{03207262-D2FA-4E86-BE1F-55BC16B34C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0F15C1-473D-4556-B6A1-9A1A6BE6A8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0F15C1-473D-4556-B6A1-9A1A6BE6A8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0F15C1-473D-4556-B6A1-9A1A6BE6A8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0F15C1-473D-4556-B6A1-9A1A6BE6A8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03207262-D2FA-4E86-BE1F-55BC16B34C6E}.Debug|Any CPU.ActiveCfg = Debug
+		{03207262-D2FA-4E86-BE1F-55BC16B34C6E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE69045-09BA-404E-B799-F8B18ED7B19B}
+	EndGlobalSection
+EndGlobal
