@@ -48,7 +48,7 @@
             this.link_box.Name = "link_box";
             this.link_box.Size = new System.Drawing.Size(449, 32);
             this.link_box.TabIndex = 0;
-            this.link_box.Text = "Youtube Url";
+            this.link_box.Text = "Youtube Video Url";
             this.link_box.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // button1

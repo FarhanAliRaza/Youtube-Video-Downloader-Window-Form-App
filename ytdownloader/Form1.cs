@@ -24,6 +24,9 @@ namespace ytdownloader
         private async  void button1_Click(object sender, EventArgs e)
         {
             string path = Environment.GetFolderPath(Environment.SpecialFolder.MyVideos);
+            string apath = Environment.GetFolderPath(Environment.SpecialFolder.MyMusic);
+
+
             Console.WriteLine(path);
 
             string link = link_box.Text ;
@@ -55,8 +58,8 @@ namespace ytdownloader
                 var sM = await yt.Videos.Streams.GetManifestAsync(link);
                 var sI = sM.GetAudioOnlyStreams().GetWithHighestBitrate();
 
-                await yt.Videos.Streams.DownloadAsync(sI, path + @"\" + $"{tit}audio.{sI.Container}");
-                MessageBox.Show("Audio Downloaded", "Message");
+                await yt.Videos.Streams.DownloadAsync(sI, apath + @"\" + $"{tit}audio.{sI.Container}");
+                MessageBox.Show($"Audio Downloaded! See in {apath}", "Message");
                 button1.Text = "Download";
 
                 button1.Enabled = true;
@@ -100,7 +103,7 @@ namespace ytdownloader
                     var videoStreamInfo = streamManifest.GetVideoStreams().First(s => s.VideoQuality.Label == comboBox1.Text);
                     var streamInfos = new IStreamInfo[] { audioStreamInfo, videoStreamInfo };
                     await youtube.Videos.DownloadAsync(streamInfos, new ConversionRequestBuilder(path + @"\" + $"{title}.mp4").Build());
-                    MessageBox.Show("Video Downloaded", "Message");
+                    MessageBox.Show($"Video Downloaded! See in {path}", "Message");
                     button1.Enabled = true;
                     link_box.Text = "";
 
@@ -110,8 +113,8 @@ namespace ytdownloader
                 {
                     var streamInfo = streamManifest.GetMuxedStreams().GetWithHighestVideoQuality();
                     await youtube.Videos.Streams.DownloadAsync(streamInfo, path + @"\" + $"{title}.{streamInfo.Container}");
-                    MessageBox.Show("FFmpeg missing so Downloaded in highest quality available. Please add ffmpeg to path", "Message");
-                    MessageBox.Show("Video Downloaded", "Message");
+                    MessageBox.Show("FFmpeg binary is missing so Downloaded in highest quality available. Please add ffmpeg to path", "Message");
+                    MessageBox.Show($"Video Downloaded! See in {path}", "Message");
                     button1.Enabled = true;
                     link_box.Text = "";
                 }

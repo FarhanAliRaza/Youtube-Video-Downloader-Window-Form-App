@@ -28,6 +28,12 @@
         "Entry"
         {
         "MsmKey" = "8:_09932845AF02254F8445A06FEB11575D"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_09932845AF02254F8445A06FEB11575D"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -76,6 +82,12 @@
         "Entry"
         {
         "MsmKey" = "8:_18214461BBA310907807B58B487AB204"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_18214461BBA310907807B58B487AB204"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -89,6 +101,12 @@
         {
         "MsmKey" = "8:_1D79834B8EF21B48F93D51426A03AB74"
         "OwnerKey" = "8:_23E191BB1DFB48CD963B3A9521DCB58B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1D79834B8EF21B48F93D51426A03AB74"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -112,6 +130,12 @@
         "Entry"
         {
         "MsmKey" = "8:_1E585DDA9E33B613FDD6F087AC7EEAF9"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1E585DDA9E33B613FDD6F087AC7EEAF9"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -119,6 +143,12 @@
         {
         "MsmKey" = "8:_1E6FF6AE73ABFC4B1A0FCE759EE2CAB7"
         "OwnerKey" = "8:_23E191BB1DFB48CD963B3A9521DCB58B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1E6FF6AE73ABFC4B1A0FCE759EE2CAB7"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -137,6 +167,12 @@
         {
         "MsmKey" = "8:_1F063B7088B21CFC5CFC35941DBB5B1F"
         "OwnerKey" = "8:_23E191BB1DFB48CD963B3A9521DCB58B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1F063B7088B21CFC5CFC35941DBB5B1F"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -172,6 +208,12 @@
         "Entry"
         {
         "MsmKey" = "8:_3BC2EBF5398C63B20A890DB7B85B7403"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3BC2EBF5398C63B20A890DB7B85B7403"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -179,6 +221,12 @@
         {
         "MsmKey" = "8:_4FA436B8C84FD7D7D06A141A3E87E4CC"
         "OwnerKey" = "8:_1F063B7088B21CFC5CFC35941DBB5B1F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4FA436B8C84FD7D7D06A141A3E87E4CC"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -208,6 +256,12 @@
         "Entry"
         {
         "MsmKey" = "8:_6BEFC609A1A3CE781C93D043FC68DE1F"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6BEFC609A1A3CE781C93D043FC68DE1F"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -232,6 +286,12 @@
         "Entry"
         {
         "MsmKey" = "8:_888514098B18720D91EE17556DADDAF5"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_888514098B18720D91EE17556DADDAF5"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -250,6 +310,12 @@
         "Entry"
         {
         "MsmKey" = "8:_B22E44FF52C905567813057DE86D2C9E"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B22E44FF52C905567813057DE86D2C9E"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -257,6 +323,12 @@
         {
         "MsmKey" = "8:_BDF73D85BCF276965CE3C5A6D165E44F"
         "OwnerKey" = "8:_23E191BB1DFB48CD963B3A9521DCB58B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BDF73D85BCF276965CE3C5A6D165E44F"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -292,13 +364,31 @@
         "Entry"
         {
         "MsmKey" = "8:_C51147B1742F956942149EA52A243994"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C51147B1742F956942149EA52A243994"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_DD12A33CF172E06937316738C3BF4EC8"
         "OwnerKey" = "8:_18214461BBA310907807B58B487AB204"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DD12A33CF172E06937316738C3BF4EC8"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -317,6 +407,12 @@
         {
         "MsmKey" = "8:_E5599E25643922F38F1C18A687A3DCD1"
         "OwnerKey" = "8:_F8F944F0EB67852C2E97FB78D0A2D4D6"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E5599E25643922F38F1C18A687A3DCD1"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -364,6 +460,12 @@
         "Entry"
         {
         "MsmKey" = "8:_EF0A130AC26ECF5DA5A60282DA7C932D"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EF0A130AC26ECF5DA5A60282DA7C932D"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -412,6 +514,12 @@
         "Entry"
         {
         "MsmKey" = "8:_F8F944F0EB67852C2E97FB78D0A2D4D6"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F8F944F0EB67852C2E97FB78D0A2D4D6"
         "OwnerKey" = "8:_C05B0D0C2C7B488F939834F7384B3A5D"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -437,6 +545,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_23E191BB1DFB48CD963B3A9521DCB58B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_CC772DB55B004ECB9D26A843A8452D64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -578,6 +692,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -1295,7 +1417,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:FytDownloader"
         "ProductCode" = "8:{44621465-3746-47F4-9367-6BE5D948CA1E}"
-        "PackageCode" = "8:{3DF7AB49-294E-484F-B590-3629DCCD5D46}"
+        "PackageCode" = "8:{86E63192-BEB2-475B-8510-8DB13DD8E18E}"
         "UpgradeCode" = "8:{CA70E777-8C42-4AE2-95C6-0327BBC063A2}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
@@ -1968,6 +2090,34 @@
                 {
                 }
             }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_63417498801C409A8E2CB0C3D27DBA83"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_FA231DE5F3784A42A1A580AF0016E3A8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:ContentFiles"
+            "OutputProjectGuid" = "8:{3F0F15C1-473D-4556-B6A1-9A1A6BE6A8C8}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C05B0D0C2C7B488F939834F7384B3A5D"
             {
             "SourcePath" = "8:..\\ytdownloader\\obj\\Release\\ytdownloader.exe"
@@ -2046,6 +2196,34 @@
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:SourceFiles"
+            "OutputProjectGuid" = "8:{3F0F15C1-473D-4556-B6A1-9A1A6BE6A8C8}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_CC772DB55B004ECB9D26A843A8452D64"
+            {
+            "SourcePath" = "8:..\\ytdownloader\\obj\\Release\\ytdownloader.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_FA231DE5F3784A42A1A580AF0016E3A8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{3F0F15C1-473D-4556-B6A1-9A1A6BE6A8C8}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
